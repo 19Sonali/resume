@@ -1,0 +1,103 @@
+body{
+    background-color: rgb(255, 228, 196);
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.main{
+    background-color: white;
+    height: auto;
+    width: 650px;
+    position: absolute;
+    padding: 20px;
+    /* position: center; */
+}
+.left{
+    background-color: aquamarine;
+    height: 100%;
+    width: 250px;
+    float: left;
+    word-wrap: break-word;
+
+}
+.right
+{
+    width: 350px;
+    float: right;
+}
+.profile{
+	height: 200px;
+	width: 180px;
+	background-color: #ddd;
+	border-radius: 50%;
+	margin-bottom: 20px;
+	margin-left: 80px;
+	border: 5px solid #ffffff;
+	box-shadow: 6px 7px 9px 5px #e0ddd973;
+}
+.profile img{
+	width: 100%;
+	border-radius: 50%;
+    height: 200px;
+}
+
+.box-1{
+    position: relative;
+}
+.heading{
+	background-color: #179496;
+	padding: 5px;
+	color: #ffffff;
+	text-align: left;
+	padding-left: 20px;
+	margin-right: -10px;
+    font-weight: 600;
+    font-size: 20px;
+    }
+
+.p1{
+	padding: 9px 10px;
+	font-size: 14px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+
+
+
+.name{
+	padding: 50px 0px 60px 55px;
+	text-align: center;
+	letter-spacing: 3px;
+    font-size: 26px;
+}
+.name h1{
+	margin-bottom: 5px;
+}
+.box-2{
+	padding: 0px 0px;
+	margin-top: 0px;
+    position: relative;
+    margin-right: 40px;
+}
+.p2{
+	font-size: 14px;
+	font-weight: 300;
+	letter-spacing: 1px;
+	word-spacing: 2px;
+	line-height: 18px;
+	margin-top: 5px;
+    
+}
+h2{
+	font-size: 18px;
+	margin-bottom: 15px;
+}
+
+.p3{
+	font-size: 15px;
+	word-spacing: 1px;
+	letter-spacing: 0px;
+	margin-top: 10px;
+}
+.p3 span{
+	color: #fef4e4; padding-left: 20px;
+}
